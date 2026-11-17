@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Різна кількість атрибутів у вузлів Researcher; структура 3 рівні -->
+<ScientificWorks>
+  <Researcher FullName="Іваненко Іван Петрович" Faculty="ФІОТ" Department="Інформатики" Chair="Програмної інженерії"
+              Laboratory="Лабораторія ШІ" Position="Доцент" StartDate="2018-09-01" EndDate="2024-06-30">
+    <Work Title="Розпізнавання образів" Customer="МОН України" CustomerAddress="Київ, пр. Берестейський 10"
+          Subordination="Державне" Field="Інформатика"/>
+    <Work Title="Нейромережі в медицині" Customer="НАН України" CustomerAddress="Київ, вул. Володимирська 54"
+          Subordination="Державне" Field="Медицина"/>
+  </Researcher>
+  <Researcher FullName="Петренко Олена Василівна" Faculty="ФІОТ" Department="Інформатики" Chair="Програмної інженерії"
+              Position="Професор" StartDate="2015-02-01">
+    <Work Title="Методи тестування ПЗ" Customer="SoftServe" CustomerAddress="Львів, вул. Стрийська 45"
+          Subordination="Приватне" Field="Інформатика"/>
+  </Researcher>
+  <Researcher FullName="Коваль Максим Олегович" Faculty="ФЕЛ" Department="Електроніки" Chair="Мікроелектроніки"
+              Laboratory="Лабораторія сенсорів">
+    <Work Title="Сенсори тиску" Customer="Мотор Січ" CustomerAddress="Запоріжжя, пр. Моторобудівників 15"
+          Subordination="Приватне" Field="Електроніка"/>
+    <Work Title="МЕМС-акселерометри" Customer="МОН України" CustomerAddress="Київ, пр. Берестейський 10"
+          Subordination="Державне" Field="Електроніка"/>
+  </Researcher>
+  <Researcher FullName="Шевченко Наталія Іванівна" Faculty="ФЕЛ" Department="Електроніки" Chair="Мікроелектроніки"
+              Position="Старший викладач" StartDate="2020-09-01" EndDate="2025-06-30">
+    <Work Title="Енергоефективні схеми" Customer="НАН України" CustomerAddress="Київ, вул. Володимирська 54"
+          Subordination="Державне" Field="Енергетика"/>
+  </Researcher>
+  <Researcher FullName="Бондаренко Андрій Сергійович" Faculty="ФІОТ" Department="Кібербезпеки" Chair="Захисту інформації"
+              Laboratory="Лабораторія криптографії" Position="Асистент" StartDate="2022-01-10">
+    <Work Title="Постквантова криптографія" Customer="СБУ" CustomerAddress="Київ, вул. Володимирська 33"
+          Subordination="Державне" Field="Інформатика"/>
+  </Researcher>
+</ScientificWorks>
